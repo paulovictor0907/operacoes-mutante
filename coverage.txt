@@ -1,0 +1,4 @@
+% Stmts (statements): 85.41%
+% Branch (branches): 58.82%
+% Funcs (functions): 100%
+% Lines (linhas): 98.64%
